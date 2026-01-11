@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Damim_X_Adi/OneDrive/Desktop/Student%20Mangement/frontend/app/page.tsx"],"sourcesContent":["export default function Home() {\n  return (\n    <>\n      <div className=\"text-4xl\">hello</div>\n    </>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE;kBACE,cAAA,8OAAC;YAAI,WAAU;sBAAW;;;;;;;AAGhC"}}]
-}
